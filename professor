@@ -1,0 +1,8 @@
+PROFESSOR
+public class professor extends Aluno {
+    String titulo;
+
+    public void ensina() {
+        System.out.println(nome + " está ensinando.");
+    }
+}
