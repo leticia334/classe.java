@@ -1,0 +1,8 @@
+FUNCIONARIO
+public class Aluno extends Pessoa {
+    String mat;
+
+    public void aprende() {
+        System.out.println(nome + " está aprendendo.");
+    }
+}
